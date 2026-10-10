@@ -75,6 +75,7 @@ def reply_a_message():
     for greeting, phrases in expression_list.items():
         if your_expression in phrases:
             reply_category = category_map[greeting]
-            return random.choice(responses[reply_category])
+            return f" YOUR RESPONSE: {random.choice(responses[reply_category])}"
     return f"Response not found for {your_expression}"
 
+print(reply_a_message())

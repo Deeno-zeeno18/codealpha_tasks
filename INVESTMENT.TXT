@@ -1,0 +1,5 @@
+-------------TOTAL INVESTMENT VALUE PER STOCK TYPE-----------------
+STOCK NAMES----------------------- TOTAL INVESTMENT VALUE
+1.MSFT-----------------$495.00
+2.TSLA-----------------$363.00
+----------THE TOTAL INVESTMENT IS: 858.00
